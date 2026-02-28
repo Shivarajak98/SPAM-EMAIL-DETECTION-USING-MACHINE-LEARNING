@@ -18,3 +18,7 @@ The goal of this project is to implement a predictive model using Scikit-learn t
 
 => Example Use Case
 One common use case is spam email detection, where the model classifies emails as "spam" or "not spam" based on textual features.
+
+#OUTPUT :
+
+
